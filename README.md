@@ -78,23 +78,18 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=Progamer1251718&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
-## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
+## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
      
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Progamer1251718&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=Progamer1251718&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
+
 	
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Progamer1251718&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📜 Programming Quote
 
-<div align="center">	
-	
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
-  <br/>
-	</div>
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
