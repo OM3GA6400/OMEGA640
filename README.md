@@ -1,4 +1,4 @@
-<title>AnanaS</title>
+<title>Server Name</title>
 
 <h1 class="text">SERVER<br>NAME</h1>
 
