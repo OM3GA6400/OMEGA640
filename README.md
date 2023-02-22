@@ -51,7 +51,7 @@
 	  
 - 🖥️ Our Discord Server 
 
-[![Join us on Discord](https://https://ondiscord.io/xC9q4Fj2cR)](https://discord.gg/xC9q4Fj2cR) 
+[![Join us on Discord](https://ondiscord.io/xC9q4Fj2cR)](https://discord.gg/xC9q4Fj2cR) 
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
