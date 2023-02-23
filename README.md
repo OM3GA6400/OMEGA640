@@ -13,7 +13,7 @@
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
         </dt>
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-OMəGA6400_%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-OMəGA_%236400-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
 	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors">
