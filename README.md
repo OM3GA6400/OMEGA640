@@ -120,6 +120,11 @@
 <!--FEED:{"rows": 5, "select": "hackernews show", shuffle: true, "title": true  }-->
 
 <!--FEED:{"rows": 5, "select": ["hackernews ask", "hackernews show"], "raw": true, "title": true }-->
+	
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
 
 <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
