@@ -87,7 +87,10 @@
 
 <div align="center">
 		
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) height="30" width="40"
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+	
+<a hrefhttps://github.com/piyushsuthar/github-readme-quotes" target="blank"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="https://github.com/piyushsuthar/github-readme-quotes" height="30" width="40" /></a>
+</p>
 	</div>
 
 ## 💳 Github Summary Cards
