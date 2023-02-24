@@ -89,7 +89,7 @@
 		
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 	
-<a href="https://github.com/piyushsuthar/github-readme-quotes" target="blank"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="https://github.com/piyushsuthar/github-readme-quotes" height="300" /></a>
+<a href="https://github.com/piyushsuthar/github-readme-quotes" target="blank"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="https://github.com/piyushsuthar/github-readme-quotes" height="275" /></a>
 </p>
 	</div>
 
