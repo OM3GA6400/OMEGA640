@@ -111,13 +111,12 @@
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
-	
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-	
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
-	
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
-	
+
+<h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/assets/img/wave.svg" alt="wave gif" />
+</p>
 
 <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
