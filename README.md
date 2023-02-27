@@ -90,16 +90,6 @@
 <a href="https://github.com/piyushsuthar/github-readme-quotes" target="blank"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="https://github.com/piyushsuthar/github-readme-quotes" height="175" /></a>
 </p>
 	</div>
-
-## 💳 Github Summary Cards
-   
-<div align="center">
-	
-[![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-	
-</div>
 	
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
