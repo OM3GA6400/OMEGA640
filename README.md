@@ -87,8 +87,11 @@
 	
  [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
+
+<div align="center">
 	
 <img src="https://camo.githubusercontent.com/3a133a0ed268e0ab392330629cc4f51d28da12f059da92e4d8680f1e3edb5fa3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4f4d45474136343034267468656d653d6461726b687562266e6f2d6672616d653d7472756526726f773d31266d617267696e2d773d3526636f6c756d6e3d37" alt="Awards" />
+	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
      
@@ -96,9 +99,11 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
-	
+
+<div align="center">
+
 ![github contribution grid snake animation](https://camo.githubusercontent.com/41e6d6fd806c9ca7da50f19475f0981e9ae813da930730b7bdaff9251588e1bf/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d4f4d45474136343034266c61796f75743d636f6d706163742673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267468656d653d6769746875625f6461726b)![github contribution grid snake animation](https://camo.githubusercontent.com/7720b286de878ba5aead500cd9cd88d499669eb9058361c3d31cb5deea084e5c/68747470733a2f2f6769746875622d726561646d652d73746174732d78692d6475736b792e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4f4d45474136343034266c616e67735f636f756e743d3132266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565)
-	</p>
+	</div>
 
 ## 📜 Programming Quote
 
