@@ -82,6 +82,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
+	
+![github contribution grid snake animation](https://camo.githubusercontent.com/41e6d6fd806c9ca7da50f19475f0981e9ae813da930730b7bdaff9251588e1bf/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d4f4d45474136343034266c61796f75743d636f6d706163742673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267468656d653d6769746875625f6461726b)![github contribution grid snake animation](https://camo.githubusercontent.com/7720b286de878ba5aead500cd9cd88d499669eb9058361c3d31cb5deea084e5c/68747470733a2f2f6769746875622d726561646d652d73746174732d78692d6475736b792e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4f4d45474136343034266c616e67735f636f756e743d3132266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565)
+	</p>
 
 ## 📜 Programming Quote
 
@@ -91,18 +94,20 @@
 </p>
 	
 <img src="https://camo.githubusercontent.com/900096a50e0c2e508f2339b77d4bb13ac77f66c866ea0dbf2f19409a6b291926/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b" alt="Programming Quote" />
-
 	</div>
 	
    ## 📈 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://camo.githubusercontent.com/d6b1b616344396288de7505518018cd687a7e7eb6b222a738e144b6d26826048/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d4f4d45474136343034267468656d653d6769746875622d6461726b26686964655f626f726465723d74727565" alt="Activity Graph" />
+<img src="https://camo.githubusercontent.com/d6b1b616344396288de7505518018cd687a7e7eb6b222a738e144b6d26826048/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d4f4d45474136343034267468656d653d6769746875622d6461726b26686964655f626f726465723d74727565" alt="" />
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 	
+<h1 align='center'></h1>
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
 
