@@ -35,6 +35,8 @@
   <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Bambi+stop+stealing+my+profile!+%F0%9F%98%A0" alt="Typing SVG" /></a>
 	  
+<img src="https://camo.githubusercontent.com/3b9dee897252afa015233558568192b98e368a67a99bf47f46883a6ad82e299e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3030463730302663656e7465723d74727565267643656e7465723d747275652677696474683d353030266c696e65733d48692b2546302539462539312538422532432b696d2b4f4d454741213b492b6d61696e6c792b7573652b432532422532422532432b2b4a6176617363726970742b616e642b48544d4c2e2b2546302539462539362541353b492b616d2b636f6d706c6574656c792b73656c662d7461756768742e2b2546302539462539332539413b492b686176652b74776f2b79656172732b6f662b636f64696e672b657870657269656e63652e2b2545322538462542303b506c656173652b666f6c6c6f772b6d652b69662b796f752b656e6a6f792b6d792b776f726b2e2b2546302539462539392538463b5468616e6b732b666f722b7669736974696e672b6d792b70726f66696c65212b2546302539462539392538433b42616d62692b73746f702b737465616c696e672b6d792b70726f66696c65212b254630253946253938254130" alt="Awards" />
+	  
 - 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
 
 - 🌱 I’m currently learning **DC.js, C and PHP**
@@ -66,6 +68,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,discord,github,html,java,js,md,ps,py,vercel,visualstudio,stackoverflow,svg)](https://skillicons.dev)
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
+	
+<img src="https://camo.githubusercontent.com/24ca043951db28839711e54ca7ed538d9538b88aeb599e86834e320d869da4a7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4f4d45474136343034267468656d653d6769746875622d6461726b2d626c756526686964655f626f726465723d74727565" alt="Sreak Stats" />
 
   <p align="Middle">
   <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
@@ -75,6 +79,8 @@
 	
  [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
+	
+<img src="https://camo.githubusercontent.com/3a133a0ed268e0ab392330629cc4f51d28da12f059da92e4d8680f1e3edb5fa3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4f4d45474136343034267468656d653d6461726b687562266e6f2d6672616d653d7472756526726f773d31266d617267696e2d773d3526636f6c756d6e3d37" alt="Awards" />
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
      
