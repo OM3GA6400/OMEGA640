@@ -14,3 +14,5 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" height="192px" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide_border=true" height="192px" width="390px"/></a>
   <br/>
+
+fetch%28%22https//raw.githubusercontent.com/quizit-online/quizit-scripts/main/quizlet.js")
