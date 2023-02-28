@@ -30,7 +30,7 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6404"/>-->
 </p> 
 
-  <h3 align="center">Best 7th grader in Robious Middle School</h3>
+  <h3 align="center">One of thr best 7th grader in Robious Middle School</h3>
 	
 <div align="center">
 	
