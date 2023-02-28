@@ -69,19 +69,12 @@
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
-  <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
-
 <div align="center">
 	  
 <img src="https://camo.githubusercontent.com/24ca043951db28839711e54ca7ed538d9538b88aeb599e86834e320d869da4a7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4f4d45474136343034267468656d653d6769746875622d6461726b2d626c756526686964655f626f726465723d74727565" alt="Sreak Stats" />
 	</div>
 	
   ## 🏆 Awards
-<div align="center">
-	
- [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-	</div>
 
 <div align="center">
 	
