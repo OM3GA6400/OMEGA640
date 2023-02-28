@@ -97,7 +97,6 @@
 	</div>
 	
    ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://camo.githubusercontent.com/d6b1b616344396288de7505518018cd687a7e7eb6b222a738e144b6d26826048/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d4f4d45474136343034267468656d653d6769746875622d6461726b26686964655f626f726465723d74727565" alt="" />
 
