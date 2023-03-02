@@ -1,6 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=98067930)
-
- <h1 align="center">
+<h1 align="center">
   Hi, I'm OMEGA
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -30,12 +28,10 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6404"/>-->
 </p> 
 
-  <h3 align="center">One of thr best 7th grader in Robious Middle School</h3>
+  <h3 align="center">Best 7th grader in Robious Middle School</h3>
 	
-<div align="center">
-	
-<img src="https://camo.githubusercontent.com/3b9dee897252afa015233558568192b98e368a67a99bf47f46883a6ad82e299e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3030463730302663656e7465723d74727565267643656e7465723d747275652677696474683d353030266c696e65733d48692b2546302539462539312538422532432b696d2b4f4d454741213b492b6d61696e6c792b7573652b432532422532422532432b2b4a6176617363726970742b616e642b48544d4c2e2b2546302539462539362541353b492b616d2b636f6d706c6574656c792b73656c662d7461756768742e2b2546302539462539332539413b492b686176652b74776f2b79656172732b6f662b636f64696e672b657870657269656e63652e2b2545322538462542303b506c656173652b666f6c6c6f772b6d652b69662b796f752b656e6a6f792b6d792b776f726b2e2b2546302539462539392538463b5468616e6b732b666f722b7669736974696e672b6d792b70726f66696c65212b2546302539462539392538433b42616d62692b73746f702b737465616c696e672b6d792b70726f66696c65212b254630253946253938254130" alt="Awards" />
-	</div>
+  <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Bambi+stop+stealing+my+profile!+%F0%9F%98%A0" alt="Typing SVG" /></a>
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
 
@@ -69,36 +65,32 @@
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
-<div align="center">
-	  
-<img src="https://camo.githubusercontent.com/24ca043951db28839711e54ca7ed538d9538b88aeb599e86834e320d869da4a7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4f4d45474136343034267468656d653d6769746875622d6461726b2d626c756526686964655f626f726465723d74727565" alt="Sreak Stats" />
-	</div>
+  <p align="Middle">
+  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
-
 <div align="center">
 	
-<img src="https://camo.githubusercontent.com/3a133a0ed268e0ab392330629cc4f51d28da12f059da92e4d8680f1e3edb5fa3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4f4d45474136343034267468656d653d6461726b687562266e6f2d6672616d653d7472756526726f773d31266d617267696e2d773d3526636f6c756d6e3d37" alt="Awards" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
-	
-<div align="center">
-	
-<img src="https://camo.githubusercontent.com/41e6d6fd806c9ca7da50f19475f0981e9ae813da930730b7bdaff9251588e1bf/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d617374657272737461612d7269636b737461612e76657263656c2e6170702f6170693f757365726e616d653d4f4d45474136343034266c61796f75743d636f6d706163742673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267468656d653d6769746875625f6461726b" width="450" height="192"/></a><img src="https://camo.githubusercontent.com/7720b286de878ba5aead500cd9cd88d499669eb9058361c3d31cb5deea084e5c/68747470733a2f2f6769746875622d726561646d652d73746174732d78692d6475736b792e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4f4d45474136343034266c616e67735f636f756e743d3132266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565"  width="390" height="192"/></a>
-
-</div>
+     
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+  <br/>
 
 ## 📜 Programming Quote
 
 <div align="center">
 	
-<img src="https://camo.githubusercontent.com/900096a50e0c2e508f2339b77d4bb13ac77f66c866ea0dbf2f19409a6b291926/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b" alt="Programming Quote" />
+<a href="https://github.com/piyushsuthar/github-readme-quotes" target="blank"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="https://github.com/piyushsuthar/github-readme-quotes" height="200" /></a>
+</p>
 	</div>
 	
    ## 📈 Activity Graph
-
-<img src="https://camo.githubusercontent.com/d6b1b616344396288de7505518018cd687a7e7eb6b222a738e144b6d26826048/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d4f4d45474136343034267468656d653d6769746875622d6461726b26686964655f626f726465723d74727565" alt="" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
