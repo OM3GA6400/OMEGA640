@@ -30,3 +30,7 @@ name = "prettier"
 
 [[transformers]]
 name = "standardjs"
+
+[[analyzers]]
+name = "test-coverage"
+enabled = true
