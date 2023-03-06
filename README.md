@@ -139,6 +139,8 @@
         <img src="https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/cb6771daf2a092511e6228b8c2ea155548701c2e/assets/img/Wave.svg" alt="wave gif" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
