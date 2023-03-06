@@ -1,0 +1,32 @@
+version = 1
+
+[[analyzers]]
+name = "javascript"
+
+  [analyzers.meta]
+  plugins = [
+    "angular",
+    "react",
+    "vue",
+    "ember",
+    "meteor",
+    "angularjs"
+  ]
+
+[[analyzers]]
+name = "csharp"
+
+[[analyzers]]
+name = "cxx"
+
+[[transformers]]
+name = "dotnet-format"
+
+[[transformers]]
+name = "clang-format"
+
+[[transformers]]
+name = "prettier"
+
+[[transformers]]
+name = "standardjs"
